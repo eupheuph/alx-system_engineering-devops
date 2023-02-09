@@ -1,2 +1,2 @@
 #!/bin/bash
-su -m vincent chgrp staff . 
+su chown vincent::staff  

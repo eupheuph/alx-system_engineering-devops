@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n dir
+find . type d -not -name '-' |wc -l

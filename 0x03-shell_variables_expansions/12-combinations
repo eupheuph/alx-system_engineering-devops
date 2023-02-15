@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %s'\n'{a...z}{a..} |grep -v 'oo'
+echo -e{a..z}{a..}"\n" |grep -v 'oo'
